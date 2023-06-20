@@ -1,8 +1,8 @@
 #include "main.h"
 	/**
-	 * main - print _putchar
-	 * is written by Aliyu
-	 * Return: 0
+	 * main - Entry oint of my code,
+	 * 
+	 * Return: Always 0
 	 */
 
 
