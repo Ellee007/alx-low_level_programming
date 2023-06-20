@@ -1,7 +1,7 @@
 #include "main.h"
 	/**
-	 * main - Entry oint of my code,
-	 * 
+	 * main - print _putchar
+	 * is written by Aliyu
 	 * Return: Always 0
 	 */
 
@@ -19,4 +19,3 @@
 	_putchar('\n');
 	return (0);
 	}
-
